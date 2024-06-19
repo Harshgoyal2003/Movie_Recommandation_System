@@ -1,0 +1,6 @@
+1:Pandas
+2:Pycharm
+3:NLTK
+4:Streamlit
+5:Heroku
+6:API Key
