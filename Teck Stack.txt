@@ -2,5 +2,5 @@
 2:Pycharm
 3:NLTK
 4:Streamlit
-5:Heroku
+5:Render (FOR DEPLOYMENT )
 6:API Key
